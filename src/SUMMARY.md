@@ -21,14 +21,9 @@
     - [The World](./chapter_1_dreammaker/world.md)
 - [ch2: development](./chapter_2_development/summary.md)
     - WIP
-- [ch3: optimization](./chapter_3_optimizing/summary.md)
+- [ch3: space-station-13](./chapter_3_refactoring/summary.md)
     - WIP
-- [ch4: space-station-13](./chapter_4_ss13/summary.md)
-    - [Garbage Collection](./chapter_4_ss13/gc.md)
-    - [Timing](./chapter_4_ss13/timers.md)
-    - [Scheduling](./chapter_4_ss13/scheduling.md)
-    - [Signals](./chapter_4_ss13/signals.md)
-    - [Components](./chapter_4_ss13/signals.md)
-    - [Keyboard Input](./chapter_4_ss13/key_handling.md)
-    - [UI Guidelines](./chapter_4_ss13/ui_guidelines.md)
-    - [Reflection](./chapter_4_ss13//reflection.md)
+- [ch4: optimization](./chapter_4_optimizing/summary.md)
+    - WIP
+- [ch5: space-station-13](./chapter_5_ss13/summary.md)
+    - WIP
