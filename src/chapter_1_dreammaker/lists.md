@@ -54,7 +54,7 @@ L[55] = "fifty-five" // Runtime Error: List index out of bounds
 - **Get** list length: `length(L)`, `L.len`
 - **Modify** list length: `L.len = #` where `#` is a number.
     - If this shrinks the list, elements are dropped as needed.
-    - If this grows the list, the new elements are initializde to `null`.
+    - If this grows the list, the new elements are initialized to `null`.
 - Check if things are in a list: `thing in L`, `L.Find(thing)`
     - This is a bit different: `Find` gets the index if found, and `0` otherwise, while `in` is just a binary truth-y operator that returns `1` (`TRUE`) or `0` (`FALSE`).
     - **There is a faster way to do this, if you are using list associations** - see next operator.
