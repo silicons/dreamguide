@@ -10,6 +10,7 @@
     - [Numbers](./chapter_1_dreammaker/numbers.md)
     - [Strings](./chapter_1_dreammaker/strings.md)
     - [Lists](./chapter_1_dreammaker/lists.md)
+    - [Operators (Basic)](./chapter_1_dreammaker/operators_basic.md)
     - [Functions (procs)](./chapter_1_dreammaker/functions.md)
     - [Flow Control](./chapter_1_dreammaker/flow_control.md)
     - [Keeping Time](./chapter_1_dreammaker/keeping_time.md)
